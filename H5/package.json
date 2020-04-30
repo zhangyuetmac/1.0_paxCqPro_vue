@@ -18,7 +18,7 @@
     "echarts": "^4.2.1",
     "fastclick": "^1.0.6",
     "iview": "^3.4.2",
-    "jquery": "^2.2.3",
+    "jquery": "^3.5.0",
     "js-md5": "^0.7.3",
     "jsrsasign": "^8.0.12",
     "lib-flexible": "^0.3.2",
